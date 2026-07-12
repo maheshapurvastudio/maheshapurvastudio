@@ -2,6 +2,7 @@
 I'm a content creator at Mahesh Apurva Studio, making tech videos and sharing my coding journey!
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MaheshApurvaStudio)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maheshapurvastudio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maheshapurva)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C4CC.svg?logo=googlechrome&logoColor=white)](https://maheshapurvastudio.github.io/)
 # 💻 Tech Stack:
